@@ -1,7 +1,7 @@
 # htaccess-indexes
 
 A lightweight PHP application that replaces Apache's `Options +Indexes` functionality
-in `.htaccess` for browsing folders and files through a web interface with a much nicer user interface and some decent
+in `.htaccess` for browsing folders and files through a web interface with a much nicer user interface and some decent customization options.
 
 ## Quick start
 
